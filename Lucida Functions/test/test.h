@@ -1,0 +1,1 @@
+BOOLEAN ERROR = SetActiveHighPerformancePlan()
